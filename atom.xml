@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>波狗的自留地</title>
+  
+  
+  <link href="https://bodoog.site/atom.xml" rel="self"/>
+  
+  <link href="https://bodoog.site/"/>
+  <updated>2021-05-06T14:51:35.062Z</updated>
+  <id>https://bodoog.site/</id>
+  
+  <author>
+    <name>Bodoog</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>五月日记</title>
+    <link href="https://bodoog.site/2021/05/06/%E6%97%A5%E8%AE%B0/"/>
+    <id>https://bodoog.site/2021/05/06/%E6%97%A5%E8%AE%B0/</id>
+    <published>2021-05-06T07:55:11.193Z</published>
+    <updated>2021-05-06T14:51:35.062Z</updated>
+    
+    <content type="html"><![CDATA[<p>2021年5月6日 晴</p><p>此时心情是轻松的，尽管心中还有一丝担忧，但终究是迈出了这一步，无论后续有什么困难，相信我都能够勇敢地去面对。</p><hr><p>2021年5月7日 </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;2021年5月6日 晴&lt;/p&gt;
+&lt;p&gt;此时心情是轻松的，尽管心中还有一丝担忧，但终究是迈出了这一步，无论后续有什么困难，相信我都能够勇敢地去面对。&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;2021年5月7日 &lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
